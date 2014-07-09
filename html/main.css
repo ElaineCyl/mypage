@@ -143,3 +143,10 @@ text-align:center;
 img{
 border:1px dashed #ccc;
 }
+#back{
+width:50px;
+height:40px;
+-webkit-border-radius:50px 50px;
+background:rgba(255,235,205,0.8);
+text-align:center;
+}
